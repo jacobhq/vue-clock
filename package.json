@@ -1,8 +1,8 @@
 {
-  "name": "@dangvanthanh/vue-clock",
+  "name": "j-clock",
   "version": "0.2.1",
   "description": "Simple clock using Vue.js",
-  "author": "Dang Van Thanh <dangvanthanh@dangthanh.org>",
+  "author": "Jacob Marshall",
   "main": "dist/index.ssr.js",
   "browser": "dist/index.esm.js",
   "module": "dist/index.esm.js",

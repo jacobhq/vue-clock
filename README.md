@@ -9,13 +9,13 @@
 ### CDN
 
 ```html
-<script src="https://unpkg.com/@dangvanthanh/vue-clock"></script>
+<script src="https://unpkg.com/j-clock"></script>
 ```
 
 ### NPM
 
 ```shell
-$ npm install @dangvanthanh/vue-clock --save
+$ npm install j-clock --save
 ```
 
 ## Usage

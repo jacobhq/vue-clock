@@ -42,10 +42,12 @@ export default {
 </script>
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
 .clock {
   background: #fff;
   border: 0.3rem solid #fff;
-  border-radius: 0.5rem;
+  border-radius: 0.7rem;
   display: inline-block;
   margin-bottom: 1em;
 }
