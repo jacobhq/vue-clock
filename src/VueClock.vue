@@ -58,6 +58,7 @@ export default {
   background: linear-gradient(to bottom, #26303b 50%, #2c3540 50%);
   display: inline-block;
   color: #fff;
+  color: linear-gradient(to bottom, #c2c2c2 50%, #ececec 50%);
   font-family: 'Nunito', sans-serif;
   font-size: 3rem;
   font-weight: 300;

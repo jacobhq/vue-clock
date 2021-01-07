@@ -1,6 +1,6 @@
 {
   "name": "j-clock",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Simple clock using Vue.js",
   "author": "Jacob Marshall",
   "main": "dist/index.ssr.js",
