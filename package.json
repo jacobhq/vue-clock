@@ -37,7 +37,7 @@
     "rimraf": "^3.0.2",
     "rollup": "2.45.1",
     "rollup-plugin-esbuild": "2.6.1",
-    "rollup-plugin-filesize": "9.1.0",
+    "rollup-plugin-filesize": "9.1.1",
     "rollup-plugin-vue": "5.1.9",
     "vue": "^2.6.12",
     "vue-jest": "^3.0.7",
